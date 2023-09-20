@@ -1,1 +1,1 @@
-# men
+# static website
